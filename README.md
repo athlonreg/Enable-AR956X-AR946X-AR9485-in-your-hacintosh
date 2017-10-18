@@ -9,5 +9,6 @@
 ``` 
 link: http://pan.baidu.com/s/1pKKvNRH  password:5n1a
 ```
-Credit:insanely protege
-http://www.insanelymac.com/forum/topic/312045-atheros-wireless-driver-os-x-101112-for-unsupported-cards/page-20
+### Credit:
+[insanely protege](
+http://www.insanelymac.com/forum/topic/312045-atheros-wireless-driver-os-x-101112-for-unsupported-cards/page-20) 
